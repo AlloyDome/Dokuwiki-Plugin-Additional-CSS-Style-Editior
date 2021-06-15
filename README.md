@@ -1,5 +1,5 @@
 # DokuWiki-Plugin-Additional-CSS-Style-Editior
-Additional CSS Style Editior (ACSE)) Plugin, DokuWiki · DokuWiki 附加 CSS 样式编辑器（ACSE）插件
+Additional CSS Style Editior (ACSE) Plugin, DokuWiki · DokuWiki 附加 CSS 样式编辑器（ACSE）插件
 
 ## Introduction · 简介
 This plugin provides an edit interface for the CSS file `conf/userstyle.css`.
