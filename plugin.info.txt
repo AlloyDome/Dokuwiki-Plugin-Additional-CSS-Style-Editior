@@ -1,0 +1,7 @@
+base   acse
+author AlloyDome
+email  
+date   2021-6-14
+name   Additional CSS Style Editior
+desc   To add additional CSS style.
+url    http://www.dokuwiki.org/plugin:acse
