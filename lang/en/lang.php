@@ -10,4 +10,4 @@
 $lang['menu'] = 'Additional CSS Style Editor';
 
 $lang['textareaHintLabel'] = 'Enter additional CSS styles here';
-$lang['updateButton'] = '✅ Update';
+$lang['updateButton'] = '🔄 Update';
