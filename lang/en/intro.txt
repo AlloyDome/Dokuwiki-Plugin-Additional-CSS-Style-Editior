@@ -1,0 +1,6 @@
+====== Additional CSS Style Editor ======
+Enter additional CSS style in the textbox below. These styles will be appled to any template. 
+
+These styles are saved in CSS file ''conf/userstyle.css''。Note: these styles in ''conf/userstyle.css'' are only for screen display, not for print((Other CSS files may be supported in a future version.)).
+
+Please click “Update” button under the textbox after editing, otherwise your changes will not be saved.
