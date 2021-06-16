@@ -2,6 +2,6 @@ base   acse
 author AlloyDome
 email  
 date   2021-6-14
-name   Additional CSS Style Editior
+name   Additional CSS Style Editor
 desc   To add additional CSS style.
-url    http://www.dokuwiki.org/plugin:acse
+url    https://github.com/AlloyDome/Dokuwiki-Plugin-Additional-CSS-Style-Editor

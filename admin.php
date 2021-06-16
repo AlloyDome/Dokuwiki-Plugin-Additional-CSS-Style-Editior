@@ -6,7 +6,7 @@
  * @license		MIT License
  * @author		AlloyDome
  * 
- * @version		1.0.0, beta (------)
+ * @version		1.0.0, beta (210615)
  */
 
 if(!defined('DOKU_INC'))
@@ -28,8 +28,8 @@ class admin_plugin_acse extends DokuWiki_Admin_Plugin {
 	/**
 	 * Handle user request
 	 * 
-	 * @version	1.0.0, beta (------)
-	 * @since	1.0.0, beta (------)
+	 * @version	1.0.0, beta (210615)
+	 * @since	1.0.0, beta (210615)
 	 */
 	public function handle() {
 		if (!isset($_REQUEST['cmd']))
@@ -53,8 +53,8 @@ class admin_plugin_acse extends DokuWiki_Admin_Plugin {
 	/**
 	 * 输出管理界面的 HTML · Output HTML for admin UI
 	 * 
-	 * @version	1.0.0, beta (------)
-	 * @since	1.0.0, beta (------)
+	 * @version	1.0.0, beta (210615)
+	 * @since	1.0.0, beta (210615)
 	 */
 	public function html() {
 		ptln($this->locale_xhtml('intro'));
@@ -81,8 +81,8 @@ class admin_plugin_acse extends DokuWiki_Admin_Plugin {
 	/**
 	 * 获取 conf/userstyle.css 的内容 · Get the contents of conf/userstyle.css
 	 * 
-	 * @version	1.0.0, beta (------)
-	 * @since	1.0.0, beta (------)
+	 * @version	1.0.0, beta (210615)
+	 * @since	1.0.0, beta (210615)
 	 */
 	private function getStyleSheet() {
 		if (file_exists(USERSTYLE_CSS)) {
